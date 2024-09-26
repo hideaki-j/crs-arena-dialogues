@@ -41,3 +41,15 @@ python tool/merge.py --votes data/votes_closed.csv --dialogue data/crs_arena_dia
 ```
 
 The results are stored in `data/merged` directory.
+
+This script adds the vote result to each dialogue, e.g.,
+```python
+"vote_result": {
+    "result": "tie", # either "win" or "lose" or "tie"
+    "details": {
+        "crs1": "barcor_redial", # name of the first CRS
+        "crs2": "kbrd_redial", # name of the second CRS
+        "vote": "barcor_redial" # either "barcor_redial", "kbrd_redial", or "tie"
+    }
+}
+```
