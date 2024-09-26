@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 import os
-import argparse  # Add this import
+import argparse
 from typing import List, Dict, Optional, Tuple
 
 def find_vote(votes_df: pd.DataFrame, user_id: str, agent_id: str) -> pd.DataFrame:
@@ -29,19 +29,23 @@ def merge_votes_to_dialogues(votes_file: str, dialogues_file: str) -> None:
     with open(dialogues_file, 'r') as f:
         dialogues = json.load(f)
 
+    # Process each dialogue
     for dialogue in dialogues:
         user_id = dialogue['user']['id']
         agent_id = dialogue['agent']['id']
 
+        # Find the vote for the dialogue from the votes.csv
         vote_rows = find_vote(votes_df, user_id, agent_id)
 
+        # Error if multiple vote rows found
         if len(vote_rows) > 1:
             print(f"Error: Multiple vote rows found for user_id {user_id} and agent_id {agent_id}")
             return
 
+        # If no vote found, set vote to None
         if len(vote_rows) == 0:
             dialogue['vote'] = None
-        else:
+        else: # If vote found, add vote result to the dialogue
             vote_result = determine_vote_result(vote_rows, agent_id)
             dialogue['vote_result'] = {
                 "result": vote_result,
@@ -52,6 +56,7 @@ def merge_votes_to_dialogues(votes_file: str, dialogues_file: str) -> None:
                 }
             }
 
+    # Output the merged dialogues
     output_filename = os.path.basename(dialogues_file).replace('.json', '_with_votes.json')
     output_dir = os.path.join(os.path.dirname(dialogues_file), 'merged')
     os.makedirs(output_dir, exist_ok=True)
@@ -69,4 +74,5 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
+    # Main: merge votes into dialogues
     merge_votes_to_dialogues(args.votes_file, args.dialogues_file)
