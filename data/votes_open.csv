@@ -43,6 +43,7 @@ session_id,user_id,crs1,crs2,vote
 2024-09-12 11:43:54,aef2f6ea-58db-484a-ad29-990d81fdaaba,crbcrs_redial,chatgpt_redial,crbcrs_redial
 2024-09-12 11:48:49,d8d3fc84-78df-497a-b8de-8044cefc4bff,chatgpt_opendialkg,chatgpt_redial,chatgpt_redial
 2024-09-12 11:49:05,b18971bd-ed86-49d8-b2cf-1abbd4143e61,crbcrs_redial,chatgpt_redial,chatgpt_redial
+2024-09-12 11:49:54,199b3c22-e01a-4930-a148-caeb5c48b21d,chatgpt_redial,chatgpt_opendialkg,chatgpt_opendialkg
 2024-09-12 11:50:32,199b3c22-e01a-4930-a148-caeb5c48b21d,chatgpt_redial,chatgpt_opendialkg,chatgpt_opendialkg
 2024-09-12 11:52:00,db4dac93-7452-4c25-bf2e-7da5195b0198,chatgpt_opendialkg,crbcrs_redial,tie
 2024-09-12 12:01:25,c19d1b0d-90e5-47c1-9e9d-f11a0f5add8c,barcor_opendialkg,barcor_redial,barcor_redial
@@ -81,4 +82,5 @@ session_id,user_id,crs1,crs2,vote
 2024-09-13 10:57:43,57ac2c8f-75fa-49ad-be36-574004b0c47a,unicrs_redial,unicrs_opendialkg,unicrs_opendialkg
 2024-09-13 12:15:34,56759a2a-e597-41ec-85d5-e15bf9899ebf,kbrd_redial,kbrd_opendialkg,kbrd_redial
 2024-09-13 12:45:57,f4e52cb8-a5e7-42be-8294-b61cdfcdf83d,kbrd_opendialkg,kbrd_redial,kbrd_redial
+2024-09-13 12:56:06,d847452b-5b73-4cbf-a70f-e625c6cc0465,kbrd_redial,kbrd_opendialkg,tie
 2024-09-13 12:56:06,d847452b-5b73-4cbf-a70f-e625c6cc0465,kbrd_redial,kbrd_opendialkg,tie
