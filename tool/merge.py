@@ -2,13 +2,15 @@ import pandas as pd
 import json
 import os
 import argparse  # Add this import
+from typing import List, Dict, Optional, Tuple
 
-def find_vote(votes_df, user_id, agent_id):
+def find_vote(votes_df: pd.DataFrame, user_id: str, agent_id: str) -> pd.DataFrame:
     vote_rows = votes_df[(votes_df['user_id'] == user_id) & 
                          ((votes_df['crs1'] == agent_id) | (votes_df['crs2'] == agent_id))]
     return vote_rows
 
-def determine_vote_result(vote_row, agent_id):
+def determine_vote_result(vote_row: pd.DataFrame, agent_id: str) -> str:
+    assert len(vote_row) == 1, "Multiple vote rows found"
     if vote_row['vote'].iloc[0] == 'tie':
         return 'tie'
     elif vote_row['vote'].iloc[0] == agent_id:
@@ -16,12 +18,12 @@ def determine_vote_result(vote_row, agent_id):
     else:
         return 'lose'
 
-def _delete_duplicates(votes_df):
+def _delete_duplicates(votes_df: pd.DataFrame) -> pd.DataFrame:
+    # Delete duplicate votes to avoid "multiple vote rows found" error
     votes_df = votes_df.drop_duplicates(subset=['user_id', 'crs1', 'crs2', 'vote'], keep='first')
     return votes_df
 
-def merge_votes_to_dialogues(votes_file, dialogues_file):
-    # Read votes CSV and dialogues JSON
+def merge_votes_to_dialogues(votes_file: str, dialogues_file: str) -> None:
     votes_df = pd.read_csv(votes_file)
     votes_df = _delete_duplicates(votes_df)
     with open(dialogues_file, 'r') as f:
@@ -50,7 +52,6 @@ def merge_votes_to_dialogues(votes_file, dialogues_file):
                 }
             }
 
-    # Write updated dialogues to output file
     output_filename = os.path.basename(dialogues_file).replace('.json', '_with_votes.json')
     output_dir = os.path.join(os.path.dirname(dialogues_file), 'merged')
     os.makedirs(output_dir, exist_ok=True)
@@ -59,16 +60,13 @@ def merge_votes_to_dialogues(votes_file, dialogues_file):
     with open(output_file, 'w') as f:
         json.dump(dialogues, f, indent=4)
 
-    print(f"Updated dialogues written to {output_file}")
+    print(f"Merged dialogues written to {output_file}")
 
 if __name__ == "__main__":
-    # Create ArgumentParser object
     parser = argparse.ArgumentParser(description="Merge votes into dialogues")
     parser.add_argument("-v", "--votes", dest="votes_file", required=True, help="Path to the votes CSV file")
     parser.add_argument("-d", "--dialogues", dest="dialogues_file", required=True, help="Path to the dialogues JSON file")
     
-    # Parse arguments
     args = parser.parse_args()
     
-    # Call merge_votes_to_dialogues with parsed arguments
     merge_votes_to_dialogues(args.votes_file, args.dialogues_file)
