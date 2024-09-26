@@ -1,4 +1,4 @@
-id,user_id,crs1,crs2,vote
+session_id,user_id,crs1,crs2,vote
 2024-09-08 23:01:08,e7eb4480-6951-4582-91ad-1d19ead970bb,kbrd_redial,kbrd_opendialkg,tie
 2024-09-09 12:39:13,049a839e-89e5-4e0b-92e7-f72eb5052ca5,kbrd_redial,kbrd_opendialkg,kbrd_redial
 2024-09-09 12:44:14,8460fdbb-3dee-4b19-aa3e-057b40b4b9a6,kbrd_redial,kbrd_opendialkg,kbrd_redial

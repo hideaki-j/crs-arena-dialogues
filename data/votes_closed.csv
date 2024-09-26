@@ -1,4 +1,4 @@
-id,user_id,crs1,crs2,vote
+session_id,user_id,crs1,crs2,vote
 2024-09-13 02:57:16.001226,666fdd8e-fca8-40f5-989a-6ffd8b92056d,unicrs_redial,unicrs_opendialkg,tie
 2024-09-13 03:02:30.746557,635f6ec4-dad3-4c4c-914b-3ec9ee18c636,barcor_redial,barcor_opendialkg,barcor_redial
 2024-09-13 03:05:52.842591,6941de78-6019-4941-bb80-b235a08f599c,barcor_redial,barcor_opendialkg,barcor_redial
