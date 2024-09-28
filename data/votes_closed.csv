@@ -1,105 +1,105 @@
-session_id,user_id,crs1,crs2,vote
-2024-09-13 02:57:16.001226,666fdd8e-fca8-40f5-989a-6ffd8b92056d,unicrs_redial,unicrs_opendialkg,tie
-2024-09-13 03:02:30.746557,635f6ec4-dad3-4c4c-914b-3ec9ee18c636,barcor_redial,barcor_opendialkg,barcor_redial
-2024-09-13 03:05:52.842591,6941de78-6019-4941-bb80-b235a08f599c,barcor_redial,barcor_opendialkg,barcor_redial
-2024-09-16 02:27:59.667796,f9f3e816-8a08-4bf1-9d7e-fd3ef4cf18e8,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg
-2024-09-16 02:30:52.137582,aa4e6c42-af03-401a-bf78-133777cf7841,chatgpt_opendialkg,kbrd_redial,chatgpt_opendialkg
-2024-09-16 02:33:38.521278,4fa22efa-db55-4f50-a247-a0aa13f7b1ba,chatgpt_opendialkg,kbrd_redial,tie
-2024-09-16 08:59:25.595931,04ed4d35-af19-44ac-91b1-fcc3fb857a5f,kbrd_redial,crbcrs_redial,tie
-2024-09-16 09:01:28.433239,6efb3c29-2556-4a71-8500-8f78c5c259a3,chatgpt_redial,kbrd_opendialkg,chatgpt_redial
-2024-09-16 09:05:45.977149,80068270-5a9d-4c07-ae2e-1938816336b4,unicrs_redial,chatgpt_redial,chatgpt_redial
-2024-09-16 09:12:32.853371,337ec03b-5961-4de8-9209-b2e36f3dd174,barcor_opendialkg,unicrs_opendialkg,tie
-2024-09-16 09:15:47.497006,f913f35a-93c5-497d-afc5-1a7fcc5ea845,barcor_redial,chatgpt_opendialkg,chatgpt_opendialkg
-2024-09-16 09:17:16.328893,936abb41-428a-4327-a7e1-9d6c5ceae7ec,chatgpt_opendialkg,barcor_redial,chatgpt_opendialkg
-2024-09-16 09:20:05.563488,b4ab3e8d-5404-4bfd-b227-c3aed54dd4d3,chatgpt_opendialkg,barcor_redial,chatgpt_opendialkg
-2024-09-16 09:23:15.142274,f7bdfc54-445d-43f1-98fa-854ae0aaae83,barcor_opendialkg,crbcrs_redial,barcor_opendialkg
-2024-09-16 09:27:45.490553,c2ecc39b-b40c-4ebf-a291-368fb066468e,kbrd_redial,unicrs_redial,kbrd_redial
-2024-09-16 09:30:43.626967,580e55b2-d4bf-4f9b-8413-0a4e343ef741,kbrd_opendialkg,unicrs_redial,tie
-2024-09-16 09:34:09.996540,a75606ed-700b-40a5-9b17-a5d51e691c36,chatgpt_redial,crbcrs_redial,chatgpt_redial
-2024-09-16 09:37:49.104202,f3129d35-3a1a-49fa-bf01-b85b91337f15,unicrs_opendialkg,crbcrs_redial,tie
-2024-09-16 09:40:33.178317,9c0cd453-157f-4fe1-a7e2-177ec2ce5792,kbrd_redial,kbrd_opendialkg,tie
-2024-09-16 09:46:03.684262,5b6e2618-9bc2-48c1-9172-aa2043b71b60,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg
-2024-09-16 09:52:27.499407,b016ffa6-d3b3-47d9-9fad-ee8b3a7682e1,kbrd_redial,crbcrs_redial,tie
-2024-09-16 09:54:51.053364,ef42bb06-47e3-47f1-9fbb-8131b15f7ab0,barcor_opendialkg,kbrd_redial,tie
-2024-09-16 10:05:58.252168,0f6a6f54-84a4-4b37-98bf-2bc560f39de7,unicrs_opendialkg,chatgpt_redial,chatgpt_redial
-2024-09-16 10:15:49.141954,1371d38a-649b-4c5a-9c1f-c2ce5a117555,kbrd_redial,crbcrs_redial,tie
-2024-09-16 10:35:59.896742,016264e2-c112-459a-ab52-072e02f8747b,unicrs_redial,chatgpt_opendialkg,chatgpt_opendialkg
-2024-09-16 10:36:09.425166,779d469f-548d-4b16-a7dc-f69c26eb2d1e,barcor_redial,unicrs_redial,barcor_redial
-2024-09-16 10:43:45.296671,3795bb9f-6f60-4c48-8ee4-f18658e93225,kbrd_opendialkg,chatgpt_redial,chatgpt_redial
-2024-09-16 10:48:29.702693,2955c260-0ba9-414c-8980-bf8bf054900e,unicrs_opendialkg,chatgpt_redial,tie
-2024-09-16 10:49:01.781444,2489b744-c02c-4a2f-8397-9c4e49a22fee,barcor_opendialkg,chatgpt_redial,tie
-2024-09-16 10:58:19.796952,3d50a5ae-4ff9-4f35-be68-6c19857be239,kbrd_redial,crbcrs_redial,tie
-2024-09-16 11:00:10.496843,7f9fe5a0-4562-4a94-93ac-62ee2ad8f88a,barcor_opendialkg,crbcrs_redial,tie
-2024-09-16 11:01:46.607551,72f4ea64-a29b-46f9-8459-a431f71c47eb,chatgpt_redial,unicrs_redial,tie
-2024-09-16 11:07:05.872720,9db35768-b230-4d1c-a40e-a9192efc54c2,barcor_redial,chatgpt_opendialkg,tie
-2024-09-16 11:07:23.736472,2e180e37-b63b-42d2-8141-2996edbab658,kbrd_opendialkg,chatgpt_opendialkg,chatgpt_opendialkg
-2024-09-16 11:14:57.722089,39db65a4-2e70-4b3d-b60c-7fd8bc9efa56,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg
-2024-09-16 11:15:25.921499,f4f0b45b-f71c-44d3-9c42-07f5d7f3c9eb,unicrs_opendialkg,kbrd_redial,tie
-2024-09-16 11:17:44.936365,e0b60b18-a648-405d-a214-144a986fd655,unicrs_opendialkg,kbrd_redial,tie
-2024-09-16 11:24:11.166408,ff5e2c84-00a1-4f5c-9953-501bfefaa50e,kbrd_opendialkg,chatgpt_redial,tie
-2024-09-16 11:34:12.133665,f8f1280c-474b-4229-a37b-a222f09ae9e4,barcor_opendialkg,barcor_redial,barcor_redial
-2024-09-16 11:34:52.504410,432bc2e1-fd63-44fb-ae9e-4b7924b94442,barcor_redial,chatgpt_redial,chatgpt_redial
-2024-09-16 11:43:45.387913,3e77aa7d-1ff9-4b2c-a85d-2e06f45b0c80,kbrd_opendialkg,unicrs_redial,tie
-2024-09-16 11:53:35.791115,ec300989-22db-4bb7-907d-5971942ae11c,barcor_opendialkg,unicrs_opendialkg,tie
-2024-09-16 11:57:14.096762,b3ccf30b-f7fb-4f38-8b38-631c2ef232f6,barcor_opendialkg,unicrs_opendialkg,barcor_opendialkg
-2024-09-16 12:01:20.679996,b601c678-da6f-4226-922f-daa35f8afe1b,barcor_opendialkg,crbcrs_redial,crbcrs_redial
-2024-09-16 12:02:40.409967,fb14551b-6c59-467d-86b4-8b422495b76d,crbcrs_redial,kbrd_opendialkg,tie
-2024-09-16 12:07:20.796879,a40ccbfb-a9ab-46f5-9f1e-d3d48d475161,barcor_redial,kbrd_redial,barcor_redial
-2024-09-16 12:08:50.940986,a61ac294-3f5e-4b6a-892d-dbe1a8414e1a,chatgpt_opendialkg,barcor_redial,barcor_redial
-2024-09-16 12:11:47.856340,7077b507-58d2-4e48-ac65-4d93fb500570,kbrd_redial,barcor_redial,tie
-2024-09-16 12:14:49.907183,ef424103-6dd5-4671-8a60-016a96998f41,chatgpt_redial,unicrs_redial,tie
-2024-09-16 12:20:37.939261,02e94613-4209-461c-8b12-22f5021262eb,crbcrs_redial,kbrd_opendialkg,tie
-2024-09-16 12:28:12.713205,ae53dc9d-5817-4b12-801a-be241f3bc2d3,chatgpt_opendialkg,crbcrs_redial,tie
-2024-09-16 12:28:42.397803,ed93ad5f-b83f-4c35-b1d8-0b17188b73ed,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg
-2024-09-16 12:28:57.231194,67db60a6-f6b3-4791-8d1c-edc5c9fbeb7a,chatgpt_redial,unicrs_opendialkg,chatgpt_redial
-2024-09-16 12:34:39.764684,7bcecb6c-8f73-4c4d-8820-c38c0e122d98,unicrs_redial,kbrd_redial,tie
-2024-09-16 12:36:26.896412,2ab8e8ba-41db-4834-9ac3-a659c96697ef,unicrs_redial,kbrd_opendialkg,tie
-2024-09-16 12:45:25.385542,d2e2b537-c954-4c41-944a-e976905c7ff4,kbrd_redial,crbcrs_redial,tie
-2024-09-16 12:45:37.597548,70231783-4e9e-41b7-af50-addb035383d8,chatgpt_redial,kbrd_opendialkg,chatgpt_redial
-2024-09-16 12:53:22.572241,7188b711-d0aa-4d80-9850-2505ed454355,barcor_redial,unicrs_opendialkg,barcor_redial
-2024-09-16 12:57:05.196146,e10f83c5-ce2a-493b-af1e-a29526e16ae6,unicrs_opendialkg,barcor_redial,barcor_redial
-2024-09-16 12:57:20.191150,8f87e94f-8b0f-4e8a-9034-bb79f172c0bd,barcor_redial,unicrs_opendialkg,tie
-2024-09-16 13:09:41.204780,ac78cfb6-a9c0-456a-ab1e-962e51a8e60b,unicrs_redial,barcor_opendialkg,barcor_opendialkg
-2024-09-16 13:10:00.470386,78ca5dbe-ded4-42c5-af6f-531d1cd62bc2,barcor_opendialkg,unicrs_redial,tie
-2024-09-16 13:17:11.605390,6569d24b-b2bb-478c-8159-5e1dccfda5df,crbcrs_redial,kbrd_redial,tie
-2024-09-16 13:18:34.992958,df6e1f05-04d0-4d55-8d14-a5e2b0e17adf,chatgpt_opendialkg,chatgpt_redial,chatgpt_opendialkg
-2024-09-16 13:26:51.196658,4e45c938-f909-4f8e-94f0-e700bd15e249,crbcrs_redial,kbrd_redial,tie
-2024-09-16 13:28:16.602203,00cdd046-79d7-44ba-8686-c60271701e8a,chatgpt_opendialkg,unicrs_redial,unicrs_redial
-2024-09-16 13:32:30.750610,8c19cc33-9d7f-4a25-a8eb-88c4f7e209b8,chatgpt_opendialkg,chatgpt_redial,chatgpt_redial
-2024-09-16 13:38:11.295413,5848368c-44f1-4c4c-a0fa-0334b82287c6,barcor_opendialkg,kbrd_redial,tie
-2024-09-16 13:39:13.794107,1cb9615d-e2b0-43ac-ac12-9b3313111f37,chatgpt_redial,barcor_opendialkg,tie
-2024-09-16 13:45:11.796948,bd9abd71-02e4-4bd3-aa79-748c3144f455,barcor_opendialkg,kbrd_redial,kbrd_redial
-2024-09-16 13:46:47.898588,185f7406-2f1c-4211-ae0f-0d940ca141ec,kbrd_opendialkg,unicrs_opendialkg,tie
-2024-09-16 13:47:43.094512,62ed5d7b-16c7-48f2-9731-38c3061f31b4,barcor_redial,kbrd_opendialkg,barcor_redial
-2024-09-16 13:55:24.842716,8cbdbc9d-33b3-4b81-9f8e-1aad1d902117,unicrs_redial,crbcrs_redial,tie
-2024-09-16 13:56:05.175133,e5986f25-bf4e-48dc-9b3d-b83d45ea0ae1,unicrs_redial,crbcrs_redial,tie
-2024-09-16 14:06:16.551771,1e78e67b-3a06-42dc-bfce-5c3e4e7383df,chatgpt_redial,unicrs_opendialkg,chatgpt_redial
-2024-09-16 14:11:03.138272,f2dc36f1-2501-4a48-a96a-d531f5b307a8,chatgpt_opendialkg,unicrs_opendialkg,chatgpt_opendialkg
-2024-09-16 14:19:32.199411,a3a4035d-b93f-42ff-a1ee-1758215208b4,barcor_redial,crbcrs_redial,tie
-2024-09-16 14:22:04.208225,4a880a3b-9af1-4d5b-935d-02c9d2907c42,barcor_redial,crbcrs_redial,barcor_redial
-2024-09-16 14:27:58.456125,84012567-adfd-4a34-84b3-87b344a97e2d,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg
-2024-09-16 14:28:15.495339,9fff722c-29d6-4a02-934e-f2e311214bcc,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg
-2024-09-16 14:34:23.648165,6f0b70c6-afa3-40e5-997a-273ef7d59ac4,kbrd_redial,chatgpt_opendialkg,chatgpt_opendialkg
-2024-09-16 14:41:11.674227,bb4b4e12-0c35-427b-a4b9-65f3aa6188e9,kbrd_redial,unicrs_redial,tie
-2024-09-16 14:47:54.570310,ec1c6990-f2f7-4275-9039-8cb4dcdeb132,chatgpt_redial,unicrs_redial,chatgpt_redial
-2024-09-16 14:55:34.983022,0b094345-3f4b-4774-bc32-49c8395aa141,kbrd_redial,crbcrs_redial,kbrd_redial
-2024-09-16 15:02:53.274449,5391f846-74c1-474b-8d7c-dc4bb72ba1a5,chatgpt_redial,barcor_opendialkg,tie
-2024-09-16 15:02:54.290111,9e3e01c7-e2f6-4479-ae3d-95e7dbcc9d70,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg
-2024-09-16 15:04:20.155102,a1b1f517-bfd5-40bb-ab3d-35ddcb313a20,barcor_redial,unicrs_redial,barcor_redial
-2024-09-16 15:13:35.848470,f2ce74aa-457a-441b-8995-7800d33f956b,unicrs_opendialkg,kbrd_opendialkg,tie
-2024-09-16 15:16:38.531071,a1b5343d-06f9-4ed1-b03d-66cd00474fad,kbrd_opendialkg,unicrs_opendialkg,tie
-2024-09-16 15:17:39.555647,6e99bf1c-df59-4b94-a6e8-3b52c03eb528,unicrs_opendialkg,kbrd_opendialkg,tie
-2024-09-16 15:33:03.303831,38d10608-4472-47b4-b453-61596745aa06,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg
-2024-09-16 15:35:18.281219,9e76ec41-12a3-42a1-95e6-9fc1a587f980,chatgpt_opendialkg,barcor_opendialkg,tie
-2024-09-16 15:42:52.595883,19dbea4f-c8a0-45fa-8b77-c96bdc3e7e37,barcor_redial,kbrd_redial,tie
-2024-09-16 15:46:02.572796,48bbf1fb-f2f3-4e95-8e0c-dee1f46d3a02,kbrd_redial,barcor_redial,tie
-2024-09-16 15:48:04.946865,1d66da75-4fa9-4176-be34-aa8369db1abc,chatgpt_redial,kbrd_redial,chatgpt_redial
-2024-09-16 15:59:20.214644,d67317e4-82be-4ec7-99c4-da61954237b8,chatgpt_redial,unicrs_redial,chatgpt_redial
-2024-09-16 15:59:39.346926,475e30ff-2ac0-4c7d-9bc7-1bf1d4e1e5ee,crbcrs_redial,unicrs_redial,unicrs_redial
-2024-09-16 16:06:18.506607,90c8aff4-30a2-422b-9820-456585d2e6e0,barcor_opendialkg,kbrd_opendialkg,tie
-2024-09-16 16:06:57.907332,9a71ff00-72eb-4716-a49b-f591ecae0f88,chatgpt_redial,barcor_opendialkg,chatgpt_redial
-2024-09-16 16:15:16.673948,c8f99970-736d-4770-b17a-4b24818ac6f7,kbrd_redial,crbcrs_redial,crbcrs_redial
-2024-09-16 16:16:18.177714,7a69c19d-a316-4a9e-98d2-56f9d4ea7b32,kbrd_redial,crbcrs_redial,tie
-2024-09-16 16:18:11.542288,c33f6f45-6a99-415e-b428-efb43ee66f06,chatgpt_redial,kbrd_opendialkg,chatgpt_redial
-2024-09-16 16:26:11.659158,06083840-16c8-440b-9866-23a77335e554,unicrs_redial,barcor_opendialkg,barcor_opendialkg
-2024-09-16 16:26:11.845415,764e8de9-d679-4440-b71c-9e4d0d0b1ac2,unicrs_redial,barcor_redial,tie
+session_id,user_id,crs1,crs2,vote,feedback
+2024-09-13 02:57:16.001226,666fdd8e-fca8-40f5-989a-6ffd8b92056d,unicrs_redial,unicrs_opendialkg,tie,
+2024-09-13 03:02:30.746557,635f6ec4-dad3-4c4c-914b-3ec9ee18c636,barcor_redial,barcor_opendialkg,barcor_redial,"There were a few mistakes, but they followed what I was asking for the most part. CRS2 did not. "
+2024-09-13 03:05:52.842591,6941de78-6019-4941-bb80-b235a08f599c,barcor_redial,barcor_opendialkg,barcor_redial,
+2024-09-16 02:27:59.667796,f9f3e816-8a08-4bf1-9d7e-fd3ef4cf18e8,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg,I thought CRS 1 had an easier time understanding me. I also liked that it gave a longer list and was able to narrow it down. CRS2 kept getting confused so I felt it wasn't very helpful in my task in getting a movie recommendation.
+2024-09-16 02:30:52.137582,aa4e6c42-af03-401a-bf78-133777cf7841,chatgpt_opendialkg,kbrd_redial,chatgpt_opendialkg,"CRS 1 had errors or was cyclical, but it at least understood my original prompt and gave me answers relevant to it. Nothing CRS 2 provided was related to my original prompt and some responses were non-sensical. "
+2024-09-16 02:33:38.521278,4fa22efa-db55-4f50-a247-a0aa13f7b1ba,chatgpt_opendialkg,kbrd_redial,tie,"Neither of these were actually very helpful, I was trying to get more details but it just kept repeating stuff, or not understanding the context. So It didn't seem particularly useful."
+2024-09-16 08:59:25.595931,04ed4d35-af19-44ac-91b1-fcc3fb857a5f,kbrd_redial,crbcrs_redial,tie,"Both chatbots did not understand my prompts. They made bad recommendations, e.g. 'choose anything between'.  CRS1 explicitly  ignored one of my questions. Neither gave a reason for their recommendations."
+2024-09-16 09:01:28.433239,6efb3c29-2556-4a71-8500-8f78c5c259a3,chatgpt_redial,kbrd_opendialkg,chatgpt_redial,crs 1 remembered the conversation and was mostly able to follow what i asked. did not understand about death in a movie. crs 2 hardly made any sense and could not understand what I was typing. thank you for an interesting study.
+2024-09-16 09:05:45.977149,80068270-5a9d-4c07-ae2e-1938816336b4,unicrs_redial,chatgpt_redial,chatgpt_redial,"CRS 1 did not address my request at all correctly.  When I asked for British comedy recommendations, it said it wasn't a big fan of that and it prefers history.  I tried to coach it to give proper responses but the recommendations it did give didn't meet the criteria at all (e.g. Mrs. Doubtfire, which is a U.S. movie not British).  CRS2 gave much better responses.  It made  few mistakes, like giving me a Monty Python suggestion and ""A Fish Called Wanda"" when I had clearly said I'd already seen those and wanted other movies, but after I indicated that, it removed them from the list and gave me a list which for the most part was appropriate.  It also gave me a list of such movies from the 1970s specifically when I asked for that (British comedies), with just a few errors. However, then I persisted in correcting further, it lost track of what it was doing and gave me a few short lists that had nothing to do with what I requested.  But overall, it was certainly far better than CRS1, which was pretty much useless in addressing my request."
+2024-09-16 09:12:32.853371,337ec03b-5961-4de8-9209-b2e36f3dd174,barcor_opendialkg,unicrs_opendialkg,tie,I'm not impressed with either of these. The first one made too many mistakes. The second one didn't even communicate properly. 
+2024-09-16 09:15:47.497006,f913f35a-93c5-497d-afc5-1a7fcc5ea845,barcor_redial,chatgpt_opendialkg,chatgpt_opendialkg,"The first one seemed very lacking in ai iq. The second might not be perfect either, but it seemed to follow instructions decently well."
+2024-09-16 09:17:16.328893,936abb41-428a-4327-a7e1-9d6c5ceae7ec,chatgpt_opendialkg,barcor_redial,chatgpt_opendialkg,"Number one gave more options, the chat bot for number two felt like it was only pushing that one movie and did not give as many options"
+2024-09-16 09:20:05.563488,b4ab3e8d-5404-4bfd-b227-c3aed54dd4d3,chatgpt_opendialkg,barcor_redial,chatgpt_opendialkg,Both were a bit annoying but CRS2 didn't give me a sensible answer so I prefer CRS1 because at least I came out of it with a recommendation 
+2024-09-16 09:23:15.142274,f7bdfc54-445d-43f1-98fa-854ae0aaae83,barcor_opendialkg,crbcrs_redial,barcor_opendialkg,Both were poor but CRS2 was the worst. I wouldn't use or recommend these at all because some answers were nonsensical and repetitive.
+2024-09-16 09:27:45.490553,c2ecc39b-b40c-4ebf-a291-368fb066468e,kbrd_redial,unicrs_redial,kbrd_redial,"Chat is mostly irresponsive to input. Based on the incompetence, not sure if their recommendations can be trusted."
+2024-09-16 09:30:43.626967,580e55b2-d4bf-4f9b-8413-0a4e343ef741,kbrd_opendialkg,unicrs_redial,tie,They were both equally poor at answering the questions I asked with anything that made sense
+2024-09-16 09:34:09.996540,a75606ed-700b-40a5-9b17-a5d51e691c36,chatgpt_redial,crbcrs_redial,chatgpt_redial,CRS1 answered my questions better with more accurate replies and results. I felt more listened to and also attended to with this as a result.
+2024-09-16 09:37:49.104202,f3129d35-3a1a-49fa-bf01-b85b91337f15,unicrs_opendialkg,crbcrs_redial,tie,"Both weren't very helpful and didn't understand my questions, it was frustrating. I did get some answers about movies but they seemed pretty random and disjointed."
+2024-09-16 09:40:33.178317,9c0cd453-157f-4fe1-a7e2-177ec2ce5792,kbrd_redial,kbrd_opendialkg,tie,"Both chat bots were incredibly poor, CRS1 did not recommend any similar movies to the criteria I posted and CRS2 despite initially giving a potentially good suggestion then went on to make nonsensical rambles and a plethora of spelling mistakes."
+2024-09-16 09:46:03.684262,5b6e2618-9bc2-48c1-9172-aa2043b71b60,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg,Well CRS 1 chatbot was very useless and didn't really know what it was doing. While CRS 2 did do a much better job.
+2024-09-16 09:52:27.499407,b016ffa6-d3b3-47d9-9fad-ee8b3a7682e1,kbrd_redial,crbcrs_redial,tie,"Both seem unable to communicate well. CRS 2 at least greeted me when I said hello. CRS 1 gave a list of movies at the beginning, but couldn't answer my questions afterwards. Neither seemed to be able to talk properly, repeating some phrases in CRS 2."
+2024-09-16 09:54:51.053364,ef42bb06-47e3-47f1-9fbb-8131b15f7ab0,barcor_opendialkg,kbrd_redial,tie,"Both sides seem to willfully misunderstand the query. Communicating with them was frustrating and I wished I hadn't bothered, it would have been simpler to do a Google search. "
+2024-09-16 10:05:58.252168,0f6a6f54-84a4-4b37-98bf-2bc560f39de7,unicrs_opendialkg,chatgpt_redial,chatgpt_redial,"They are both poor, but CRS2 at least gave me a relevant answer"
+2024-09-16 10:15:49.141954,1371d38a-649b-4c5a-9c1f-c2ce5a117555,kbrd_redial,crbcrs_redial,tie,"The first one gave completely irrelevant answers. It used the same words frequently. It did not answer my questions. The second one seemed more accurate. But it also gave error frequently. Even though I tried several times, it gave error every time."
+2024-09-16 10:35:59.896742,016264e2-c112-459a-ab52-072e02f8747b,unicrs_redial,chatgpt_opendialkg,chatgpt_opendialkg,CRS 2 was still frustrating to use but it did at least provide me with a list. CRS 1 was pretty useless and gave me no proper answer.
+2024-09-16 10:36:09.425166,779d469f-548d-4b16-a7dc-f69c26eb2d1e,barcor_redial,unicrs_redial,barcor_redial,I felt CRS1 offered more logical responses when asking for recommendations.   CRS2 provided blank responses a couple of times.
+2024-09-16 10:43:45.296671,3795bb9f-6f60-4c48-8ee4-f18658e93225,kbrd_opendialkg,chatgpt_redial,chatgpt_redial,The CRS didn't respond to the questions when asked for more depth. They could not justify their choices. CRS 1 digressed and the answers did not make sense at points. 
+2024-09-16 10:48:29.702693,2955c260-0ba9-414c-8980-bf8bf054900e,unicrs_opendialkg,chatgpt_redial,tie,"Both were poor, unfortunately. CRS1 couldn't even name a movie. CRS2 couldn't give me any details."
+2024-09-16 10:49:01.781444,2489b744-c02c-4a2f-8397-9c4e49a22fee,barcor_opendialkg,chatgpt_redial,tie,"Neither of them answered the question I was asking, and kept repeating the incorrect information"
+2024-09-16 10:58:19.796952,3d50a5ae-4ff9-4f35-be68-6c19857be239,kbrd_redial,crbcrs_redial,tie,They were both terrible and absolutely useless. Waste of my time.
+2024-09-16 11:00:10.496843,7f9fe5a0-4562-4a94-93ac-62ee2ad8f88a,barcor_opendialkg,crbcrs_redial,tie,"they were both as useless as eachother, neither really seemed to grasp what I was asking "
+2024-09-16 11:01:46.607551,72f4ea64-a29b-46f9-8459-a431f71c47eb,chatgpt_redial,unicrs_redial,tie,"CRS1 was a bit better, but both were inaccurate, slow and didnt engage me"
+2024-09-16 11:07:05.872720,9db35768-b230-4d1c-a40e-a9192efc54c2,barcor_redial,chatgpt_opendialkg,tie,"I could not get CRS 1 to stay on topic when I was asking about a movie. While I could get CRS 2 to do a better job, it still would not explain something that I requested."
+2024-09-16 11:07:23.736472,2e180e37-b63b-42d2-8141-2996edbab658,kbrd_opendialkg,chatgpt_opendialkg,chatgpt_opendialkg,that was a clear winner - first one just nonsense and 2nd one gave vwery good recommendations 
+2024-09-16 11:14:57.722089,39db65a4-2e70-4b3d-b60c-7fd8bc9efa56,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg,"Neither chat provides complete questions. Both did not answer questions correctly.  For example asking  WHAT COUNTRIES CELEBRATE HALLOWEEN , it answered by giving cartoon titles i. It appears to run slowly compared to other AI chats i have used in the past.  "
+2024-09-16 11:15:25.921499,f4f0b45b-f71c-44d3-9c42-07f5d7f3c9eb,unicrs_opendialkg,kbrd_redial,tie,Both chatbots were frustrating. They couldn't respond well to my questions and some responses were meaningless. I ended up feeling like it was a waste of time
+2024-09-16 11:17:44.936365,e0b60b18-a648-405d-a214-144a986fd655,unicrs_opendialkg,kbrd_redial,tie,Both answered totally wrong on some of my questions but both answered 1 right i would say up till the end crs 2 was just slightly better but not by much
+2024-09-16 11:24:11.166408,ff5e2c84-00a1-4f5c-9953-501bfefaa50e,kbrd_opendialkg,chatgpt_redial,tie,Out of two of them they answered only one question correctly. Neither of them gave any where near satisfactory answers.
+2024-09-16 11:34:12.133665,f8f1280c-474b-4229-a37b-a222f09ae9e4,barcor_opendialkg,barcor_redial,barcor_redial,CR2 seems to be more intellegent and friendly. It understood my instruction correctly and gave me answers. 
+2024-09-16 11:34:52.504410,432bc2e1-fd63-44fb-ae9e-4b7924b94442,barcor_redial,chatgpt_redial,chatgpt_redial,I felt that CRS  2 was able to recognise my preferences a lot better and come up with some decent options to choose from.
+2024-09-16 11:43:45.387913,3e77aa7d-1ff9-4b2c-a85d-2e06f45b0c80,kbrd_opendialkg,unicrs_redial,tie,"They are both rather terrible. Incomplete sentences, repeating words. CRS 1 recommended movies that did not fit my request, at all. CRS 2 seemed to just completely break while interacting with it. Both were very frustrating to use."
+2024-09-16 11:53:35.791115,ec300989-22db-4bb7-907d-5971942ae11c,barcor_opendialkg,unicrs_opendialkg,tie,Neither of them was any good at helping with movie recommendations.
+2024-09-16 11:57:14.096762,b3ccf30b-f7fb-4f38-8b38-631c2ef232f6,barcor_opendialkg,unicrs_opendialkg,barcor_opendialkg,the second didn't help at all it wasn't able to give me one movie recommendation whatsoever and did not give me proper answers as well
+2024-09-16 12:01:20.679996,b601c678-da6f-4226-922f-daa35f8afe1b,barcor_opendialkg,crbcrs_redial,crbcrs_redial,It was better in terms of recomendations to what I asked for though it was a bit out in terms of the tone of language and where it placed naturally into conversation
+2024-09-16 12:02:40.409967,fb14551b-6c59-467d-86b4-8b422495b76d,crbcrs_redial,kbrd_opendialkg,tie,They're both equally useless. None of the responses made any sense. Did not respond to questions in any way as if the answers were pre-determined.
+2024-09-16 12:07:20.796879,a40ccbfb-a9ab-46f5-9f1e-d3d48d475161,barcor_redial,kbrd_redial,barcor_redial,They both had big problems and got totally lost but CRS 1 was a little bit better 
+2024-09-16 12:08:50.940986,a61ac294-3f5e-4b6a-892d-dbe1a8414e1a,chatgpt_opendialkg,barcor_redial,barcor_redial,"I liked it little better because  atleast it came up with some suggestion about movies but not that much,the list was very limited."
+2024-09-16 12:11:47.856340,7077b507-58d2-4e48-ac65-4d93fb500570,kbrd_redial,barcor_redial,tie,Both failed to give a worthwhile reccomendation. Also both ignored me telling them i had seen their reccomendation or was not interested in their suggestion
+2024-09-16 12:14:49.907183,ef424103-6dd5-4671-8a60-016a96998f41,chatgpt_redial,unicrs_redial,tie,They were both very bad. Sorry.  They did not seem to extend the conversation.
+2024-09-16 12:20:37.939261,02e94613-4209-461c-8b12-22f5021262eb,crbcrs_redial,kbrd_opendialkg,tie,"Both seem to be responding with borderline gibberish, with responses that have nothing to do with the prompt. CRS1 was at least writing more complete sentences, but CRS2 seemed to repeat a lot of words."
+2024-09-16 12:28:12.713205,ae53dc9d-5817-4b12-801a-be241f3bc2d3,chatgpt_opendialkg,crbcrs_redial,tie,"I voted tie even though CRS 1 was a little smarter because CRS 1 couldn't give me good answers to new horror movies of 2024, and all CRS 2 did was keep telling me ""he was good"" and wouldn't respond to my questions at all"
+2024-09-16 12:28:42.397803,ed93ad5f-b83f-4c35-b1d8-0b17188b73ed,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg,Both were frustrating to work with. I would prefer to just use google search.
+2024-09-16 12:28:57.231194,67db60a6-f6b3-4791-8d1c-edc5c9fbeb7a,chatgpt_redial,unicrs_opendialkg,chatgpt_redial,"at least crs1 recommended some vampire movies, crs2 was very bad, not making sense and listed movies that were not correct."
+2024-09-16 12:34:39.764684,7bcecb6c-8f73-4c4d-8820-c38c0e122d98,unicrs_redial,kbrd_redial,tie,CRS1 did not make much sense with the follow-up questions.  CRS2 did not ask detailed questions and decided to close down the conversation early and did not make much sense.
+2024-09-16 12:36:26.896412,2ab8e8ba-41db-4834-9ac3-a659c96697ef,unicrs_redial,kbrd_opendialkg,tie,Both of the CRS were terrible when responding. They made now sense and didn't directly answer my questions. I would not want to interact with either of the in the future.
+2024-09-16 12:45:25.385542,d2e2b537-c954-4c41-944a-e976905c7ff4,kbrd_redial,crbcrs_redial,tie,"I didn't think that either of the models were helpful at all, was very frustrating trying to have a conversation with both of them"
+2024-09-16 12:45:37.597548,70231783-4e9e-41b7-af50-addb035383d8,chatgpt_redial,kbrd_opendialkg,chatgpt_redial,"CRS 2 replies weren't related to the task at all. Although CRS 1 didn't provide many details when asked to do it, at least it gave me a list of movies that existed."
+2024-09-16 12:53:22.572241,7188b711-d0aa-4d80-9850-2505ed454355,barcor_redial,unicrs_opendialkg,barcor_redial,"CRS 1 gave me two different release years for Avatar. It only recommended films that were very old, but CRS 2 just seemed to have a fault, it didn't seem to list the films it was recommending. So while they were both pretty bad, CRS 1 was superior. "
+2024-09-16 12:57:05.196146,e10f83c5-ce2a-493b-af1e-a29526e16ae6,unicrs_opendialkg,barcor_redial,barcor_redial,"CRS1 just gave mostly unintelligible responses whilst CRS2 was great, gave good recommendations and tailored these based on the feedback that I gave to the answers."
+2024-09-16 12:57:20.191150,8f87e94f-8b0f-4e8a-9034-bb79f172c0bd,barcor_redial,unicrs_opendialkg,tie,I'm sorry but both of these chat bots were wrong . they were giving me wrong information and also CRS 2 didn't even bother answering my questions 
+2024-09-16 13:09:41.204780,ac78cfb6-a9c0-456a-ab1e-962e51a8e60b,unicrs_redial,barcor_opendialkg,barcor_opendialkg,"Both chatbots are difficult to have a conversation with. I voted for the second one because it at least mentioned the name of the movie, whereas I often couldn't tell which movie the first one was referring to."
+2024-09-16 13:10:00.470386,78ca5dbe-ded4-42c5-af6f-531d1cd62bc2,barcor_opendialkg,unicrs_redial,tie,Neither AI was particularly good. CRS1 kept pushing the same movie and CRS2 gave some random answers and didn't really follow the conversation.
+2024-09-16 13:17:11.605390,6569d24b-b2bb-478c-8159-5e1dccfda5df,crbcrs_redial,kbrd_redial,tie,Both of the CSR were not able to  successfully complete my request. CSR was a little bit better but wrong.
+2024-09-16 13:18:34.992958,df6e1f05-04d0-4d55-8d14-a5e2b0e17adf,chatgpt_opendialkg,chatgpt_redial,chatgpt_opendialkg,CRS 1 was really helpful CRS 2 didn't seem to answer my questions at all well.
+2024-09-16 13:26:51.196658,4e45c938-f909-4f8e-94f0-e700bd15e249,crbcrs_redial,kbrd_redial,tie,"Both bots didnt go along with my questions, crs1 repeated itself three times to three different questions, they were both frustrating , as in a tie but crs1 was worst "
+2024-09-16 13:28:16.602203,00cdd046-79d7-44ba-8686-c60271701e8a,chatgpt_opendialkg,unicrs_redial,unicrs_redial,CRS 1 gave vague answers twice in Chinese when I asked for English.  
+2024-09-16 13:32:30.750610,8c19cc33-9d7f-4a25-a8eb-88c4f7e209b8,chatgpt_opendialkg,chatgpt_redial,chatgpt_redial,The CRS 1 would either repeat what I said or give me a recommendation that seemed fake. 
+2024-09-16 13:38:11.295413,5848368c-44f1-4c4c-a0fa-0334b82287c6,barcor_opendialkg,kbrd_redial,tie,They didn't recommend me any movies from the criteria i gave it and instead was taking every word i said as the movie name. 
+2024-09-16 13:39:13.794107,1cb9615d-e2b0-43ac-ac12-9b3313111f37,chatgpt_redial,barcor_opendialkg,tie,"I did not enjoy using any of the bots, they both provided recommendations which were either not relevant or not in line with the question. I thought they didnt provide any relevant answers."
+2024-09-16 13:45:11.796948,bd9abd71-02e4-4bd3-aa79-748c3144f455,barcor_opendialkg,kbrd_redial,kbrd_redial,"Both of them were giving very bad recommendations. CRS 2 suggested ""The Shining"" which was the closest to the kind of movie I was looking for. CRS 1 kept suggesting movies that really had nothing at all to do with what I wanted. I tried to explain to them that the films they were listing were not what I wanted, but they didn't appear to understand me."
+2024-09-16 13:46:47.898588,185f7406-2f1c-4211-ae0f-0d940ca141ec,kbrd_opendialkg,unicrs_opendialkg,tie,Both answer were very bad and had no correlation to the questions asked.
+2024-09-16 13:47:43.094512,62ed5d7b-16c7-48f2-9731-38c3061f31b4,barcor_redial,kbrd_opendialkg,barcor_redial,"CRS1 and 2 took about same time to respond. Although, 1 gave me more helpful suggestions. 2 occasionally gave me incorrect responds and errors and made me uncomfortable. "
+2024-09-16 13:55:24.842716,8cbdbc9d-33b3-4b81-9f8e-1aad1d902117,unicrs_redial,crbcrs_redial,tie,"These were both shockingly bad, with CRS2 only very marginally better. CRS1 did not understand what was being asked."
+2024-09-16 13:56:05.175133,e5986f25-bf4e-48dc-9b3d-b83d45ea0ae1,unicrs_redial,crbcrs_redial,tie,both did not answer my questions properly about movies and failed to understand what i meant. I feel that i would be watching a movie that may not be suitable to the kind of movies i like
+2024-09-16 14:06:16.551771,1e78e67b-3a06-42dc-bfce-5c3e4e7383df,chatgpt_redial,unicrs_opendialkg,chatgpt_redial,"CRS1 gave good answers, gave good recommendations and responded properly to the prompts. CRS2 gave non-sensical answers, did not reply to prompts properly and did not give good information."
+2024-09-16 14:11:03.138272,f2dc36f1-2501-4a48-a96a-d531f5b307a8,chatgpt_opendialkg,unicrs_opendialkg,chatgpt_opendialkg,"CRS 1 recommended movies which were similar to the one I mentioned, the suggestions were useful and they were really similar to the one I mentioned, so they were genuine suggestions. Although CRS 1 didn't add the release dates to the recommendations as I requested. CRS 2 was almost completely useless, the assistant kept repeating the genre of the movie and only provided three recommendations after I asked repeatedly. CRS 2 was much more frustrating."
+2024-09-16 14:19:32.199411,a3a4035d-b93f-42ff-a1ee-1758215208b4,barcor_redial,crbcrs_redial,tie,They both were pretty fast at responding which I liked.  They both sucked on providing any details.  They would repeat wrong details over and over.
+2024-09-16 14:22:04.208225,4a880a3b-9af1-4d5b-935d-02c9d2907c42,barcor_redial,crbcrs_redial,barcor_redial,number 1 was 8/10 and number 2 was 1/10 with the last chatbot it seemed like it did not understand any of the questions that i put to it
+2024-09-16 14:27:58.456125,84012567-adfd-4a34-84b3-87b344a97e2d,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg,"CRS1 made no sense at all really, and the responses were nonsensical, at least with CR2 there was some semblance of a conversation, although was not able to help with my request at all."
+2024-09-16 14:28:15.495339,9fff722c-29d6-4a02-934e-f2e311214bcc,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg,"CRS 2 was much better. CRS 1 constantly repeated irrelevant information, didn't make any sense, and couldn't string a proper coherent sentence together. CRS 2 wasn't perfect but did offer some recommendations and made sense!"
+2024-09-16 14:34:23.648165,6f0b70c6-afa3-40e5-997a-273ef7d59ac4,kbrd_redial,chatgpt_opendialkg,chatgpt_opendialkg,"It seems like CRS 1 was stuck at providing recomenation only for the ""The Hangover "" franchise so not that great. On the other hand, CRS 2 seemed to be more up to date and accurate in suggestions."
+2024-09-16 14:41:11.674227,bb4b4e12-0c35-427b-a4b9-65f3aa6188e9,kbrd_redial,unicrs_redial,tie,Both gave replies that suggested that they didn't understand the question or gave incomplete replies that were unhelpful.
+2024-09-16 14:47:54.570310,ec1c6990-f2f7-4275-9039-8cb4dcdeb132,chatgpt_redial,unicrs_redial,chatgpt_redial,"CRS 2 felt like it was broken to me as it only gave one answer that was understandable and not just nonsense. CRS 1 did not give as much information as I would have liked, but still gave suggestions making it the winner."
+2024-09-16 14:55:34.983022,0b094345-3f4b-4774-bc32-49c8395aa141,kbrd_redial,crbcrs_redial,kbrd_redial,The first bot at least gave me some movie names to watch despite not being much help. The second bot was useless and very frustrating to use.
+2024-09-16 15:02:53.274449,5391f846-74c1-474b-8d7c-dc4bb72ba1a5,chatgpt_redial,barcor_opendialkg,tie,"Neither provided satisfactory response. Both gave different response to prompts. When asked for artists of movie, none suggested."
+2024-09-16 15:02:54.290111,9e3e01c7-e2f6-4479-ae3d-95e7dbcc9d70,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg,Cr2 is not able to give proper response about my queries
+2024-09-16 15:04:20.155102,a1b1f517-bfd5-40bb-ab3d-35ddcb313a20,barcor_redial,unicrs_redial,barcor_redial,CRS 1 provided me with some good film recommendations. It was also responsive and understood my questions as I asked them. I would use CRS 1 again.
+2024-09-16 15:13:35.848470,f2ce74aa-457a-441b-8995-7800d33f956b,unicrs_opendialkg,kbrd_opendialkg,tie,They were both pretty terrible and often did not make sense. The recommendations they gave were not helpful
+2024-09-16 15:16:38.531071,a1b5343d-06f9-4ed1-b03d-66cd00474fad,kbrd_opendialkg,unicrs_opendialkg,tie,"Both were glitchey and did not answer the question correctly, I would not recommend either one to get information for movies."
+2024-09-16 15:17:39.555647,6e99bf1c-df59-4b94-a6e8-3b52c03eb528,unicrs_opendialkg,kbrd_opendialkg,tie,"Both are quite bad. Can't decide which one is worse. Would never use them again. Rubbish recommendations, both are equally frustrating to talk to"
+2024-09-16 15:33:03.303831,38d10608-4472-47b4-b453-61596745aa06,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg,"I voted CRS 1 because at least it actually recommended films and what I was interested in and when I found I film it was able to give me details about that film, only slight conplaint was my first message responded wierd and the last message about where can I watch was maybe a bit too complex. CRS 2 was really frustrating for it even to talk about movies at times and when it did, recommended the wrong genre. Was not helpful at all."
+2024-09-16 15:35:18.281219,9e76ec41-12a3-42a1-95e6-9fc1a587f980,chatgpt_opendialkg,barcor_opendialkg,tie,Neither CRS 1 nor CRS 2 provided useful information to satisfy my prompt. The former shared films not released in the asked year and neither did the  latter. 
+2024-09-16 15:42:52.595883,19dbea4f-c8a0-45fa-8b77-c96bdc3e7e37,barcor_redial,kbrd_redial,tie,"Both not good. The second was worse, it only offered me one suggestion even though it said I'd seen it already. The first wasn't suggesting anything that aligned with what I liked.  They were both equally frustrating and not good, though in different ways."
+2024-09-16 15:46:02.572796,48bbf1fb-f2f3-4e95-8e0c-dee1f46d3a02,kbrd_redial,barcor_redial,tie,They are both bad at understanding what I was asking. I wouldn't use either
+2024-09-16 15:48:04.946865,1d66da75-4fa9-4176-be34-aa8369db1abc,chatgpt_redial,kbrd_redial,chatgpt_redial,CRS 1 is quite impressive i like the fact that we have the likeminds and it recommended the action movies i would love to see on the other hand CRS 2 is quite disappointing and frustrating couldn't comprehend all the responses it gave.
+2024-09-16 15:59:20.214644,d67317e4-82be-4ec7-99c4-da61954237b8,chatgpt_redial,unicrs_redial,chatgpt_redial,"crs 1 did recommend some films to watch and gave quite a few. I would have liked to have been able to get a brief summary of the films that were recommended. crs 2 was pretty useless, sometimes it didn't even give a film recommendation, when asked. Other times it gave a film recommendation back that I had given it as an example."
+2024-09-16 15:59:39.346926,475e30ff-2ac0-4c7d-9bc7-1bf1d4e1e5ee,crbcrs_redial,unicrs_redial,unicrs_redial,"♡ both were similar in terms of they couldn't provide fully specific answers to my questions, especially when i asked them to expand on title names or plot etc. however chatbot 2 actually did provide me with some titles (and dates) whereas chatbot 1 could not do this ♡"
+2024-09-16 16:06:18.506607,90c8aff4-30a2-422b-9820-456585d2e6e0,barcor_opendialkg,kbrd_opendialkg,tie,Both chat bots did not sufficiently recommend a movie that I wanted to watch. Both struggled to comprehend probing questions about movies and recommendations that I wanted to know more about. For this reason I rated it a tie since I did not come away with a clear winner or answer to my questions.
+2024-09-16 16:06:57.907332,9a71ff00-72eb-4716-a49b-f591ecae0f88,chatgpt_redial,barcor_opendialkg,chatgpt_redial,
+2024-09-16 16:15:16.673948,c8f99970-736d-4770-b17a-4b24818ac6f7,kbrd_redial,crbcrs_redial,crbcrs_redial,The first chatbot could only recommend one movie series it seemed and did not recognize or comprehend my questions.The second chatbot actually recognized one film I liked.
+2024-09-16 16:16:18.177714,7a69c19d-a316-4a9e-98d2-56f9d4ea7b32,kbrd_redial,crbcrs_redial,tie,very interesting study. I enjoy it very much.  I appreciate the way it suggest movie and help to choice the movie. Good suggestions. 
+2024-09-16 16:18:11.542288,c33f6f45-6a99-415e-b428-efb43ee66f06,chatgpt_redial,kbrd_opendialkg,chatgpt_redial,CRS 1 is detailed with correct answers. CSR 2 is completely nonsensical.
+2024-09-16 16:26:11.659158,06083840-16c8-440b-9866-23a77335e554,unicrs_redial,barcor_opendialkg,barcor_opendialkg,I prefer the second rep because he/she is more responsive and actually provided me movies while the first rep didn’t give any responses at times. Rep 1 was also much more help than rep 2z
+2024-09-16 16:26:11.845415,764e8de9-d679-4440-b71c-9e4d0d0b1ac2,unicrs_redial,barcor_redial,tie,"I could not get much information out of either, although CRS 2 did recommend me a better list of movies."
