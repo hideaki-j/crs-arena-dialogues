@@ -53,3 +53,6 @@ This script adds the vote result to each dialogue, e.g.,
     }
 }
 ```
+## Contact
+
+Should you have any questions, please contact Nolwenn Bernard (nolwenn.m.bernard@uis.no) or Hideaki Joko (hideaki.joko@ru.nl).
