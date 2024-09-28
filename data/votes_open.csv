@@ -9,7 +9,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-10 02:00:59,f58c432b-a80a-4879-bb36-890e05e349fa,kbrd_redial,kbrd_opendialkg,kbrd_redial
 2024-09-10 08:40:38,12983dfe-96a9-46f5-b807-17c90659e3a8,unicrs_redial,unicrs_opendialkg,tie
 2024-09-10 08:57:49,f6918ed5-7797-4d0c-b968-0373b08ff172,barcor_redial,barcor_opendialkg,barcor_redial
-2024-09-10 08:57:49,f6918ed5-7797-4d0c-b968-0373b08ff172,barcor_redial,barcor_opendialkg,barcor_redial
 2024-09-10 12:50:10,c22c525c-d07b-4efd-8657-4e6e2292d742,kbrd_redial,kbrd_opendialkg,kbrd_redial
 2024-09-10 20:30:01,2c72ee94-03bb-4b81-8bda-d36617b89987,kbrd_redial,kbrd_opendialkg,kbrd_opendialkg
 2024-09-10 21:15:23,25ded133-2225-4183-af7b-ff98096d85e1,unicrs_redial,unicrs_opendialkg,tie
@@ -82,5 +81,4 @@ session_id,user_id,crs1,crs2,vote
 2024-09-13 10:57:43,57ac2c8f-75fa-49ad-be36-574004b0c47a,unicrs_redial,unicrs_opendialkg,unicrs_opendialkg
 2024-09-13 12:15:34,56759a2a-e597-41ec-85d5-e15bf9899ebf,kbrd_redial,kbrd_opendialkg,kbrd_redial
 2024-09-13 12:45:57,f4e52cb8-a5e7-42be-8294-b61cdfcdf83d,kbrd_opendialkg,kbrd_redial,kbrd_redial
-2024-09-13 12:56:06,d847452b-5b73-4cbf-a70f-e625c6cc0465,kbrd_redial,kbrd_opendialkg,tie
 2024-09-13 12:56:06,d847452b-5b73-4cbf-a70f-e625c6cc0465,kbrd_redial,kbrd_opendialkg,tie

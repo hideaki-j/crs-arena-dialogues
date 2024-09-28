@@ -8,7 +8,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 08:59:25.595931,04ed4d35-af19-44ac-91b1-fcc3fb857a5f,kbrd_redial,crbcrs_redial,tie
 2024-09-16 09:01:28.433239,6efb3c29-2556-4a71-8500-8f78c5c259a3,chatgpt_redial,kbrd_opendialkg,chatgpt_redial
 2024-09-16 09:05:45.977149,80068270-5a9d-4c07-ae2e-1938816336b4,unicrs_redial,chatgpt_redial,chatgpt_redial
-2024-09-16 09:11:55.811041,337ec03b-5961-4de8-9209-b2e36f3dd174,barcor_opendialkg,unicrs_opendialkg,tie
 2024-09-16 09:12:32.853371,337ec03b-5961-4de8-9209-b2e36f3dd174,barcor_opendialkg,unicrs_opendialkg,tie
 2024-09-16 09:15:47.497006,f913f35a-93c5-497d-afc5-1a7fcc5ea845,barcor_redial,chatgpt_opendialkg,chatgpt_opendialkg
 2024-09-16 09:17:16.328893,936abb41-428a-4327-a7e1-9d6c5ceae7ec,chatgpt_opendialkg,barcor_redial,chatgpt_opendialkg
@@ -22,7 +21,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 09:46:03.684262,5b6e2618-9bc2-48c1-9172-aa2043b71b60,kbrd_opendialkg,barcor_opendialkg,barcor_opendialkg
 2024-09-16 09:52:27.499407,b016ffa6-d3b3-47d9-9fad-ee8b3a7682e1,kbrd_redial,crbcrs_redial,tie
 2024-09-16 09:54:51.053364,ef42bb06-47e3-47f1-9fbb-8131b15f7ab0,barcor_opendialkg,kbrd_redial,tie
-2024-09-16 10:01:57.644581,c33bfb9a-5e87-4a55-91e2-625ca903c4d4,chatgpt_opendialkg,unicrs_opendialkg,chatgpt_opendialkg
 2024-09-16 10:05:58.252168,0f6a6f54-84a4-4b37-98bf-2bc560f39de7,unicrs_opendialkg,chatgpt_redial,chatgpt_redial
 2024-09-16 10:15:49.141954,1371d38a-649b-4c5a-9c1f-c2ce5a117555,kbrd_redial,crbcrs_redial,tie
 2024-09-16 10:35:59.896742,016264e2-c112-459a-ab52-072e02f8747b,unicrs_redial,chatgpt_opendialkg,chatgpt_opendialkg
@@ -35,7 +33,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 11:01:46.607551,72f4ea64-a29b-46f9-8459-a431f71c47eb,chatgpt_redial,unicrs_redial,tie
 2024-09-16 11:07:05.872720,9db35768-b230-4d1c-a40e-a9192efc54c2,barcor_redial,chatgpt_opendialkg,tie
 2024-09-16 11:07:23.736472,2e180e37-b63b-42d2-8141-2996edbab658,kbrd_opendialkg,chatgpt_opendialkg,chatgpt_opendialkg
-2024-09-16 11:13:50.820786,39db65a4-2e70-4b3d-b60c-7fd8bc9efa56,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg
 2024-09-16 11:14:57.722089,39db65a4-2e70-4b3d-b60c-7fd8bc9efa56,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg
 2024-09-16 11:15:25.921499,f4f0b45b-f71c-44d3-9c42-07f5d7f3c9eb,unicrs_opendialkg,kbrd_redial,tie
 2024-09-16 11:17:44.936365,e0b60b18-a648-405d-a214-144a986fd655,unicrs_opendialkg,kbrd_redial,tie
@@ -43,7 +40,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 11:34:12.133665,f8f1280c-474b-4229-a37b-a222f09ae9e4,barcor_opendialkg,barcor_redial,barcor_redial
 2024-09-16 11:34:52.504410,432bc2e1-fd63-44fb-ae9e-4b7924b94442,barcor_redial,chatgpt_redial,chatgpt_redial
 2024-09-16 11:43:45.387913,3e77aa7d-1ff9-4b2c-a85d-2e06f45b0c80,kbrd_opendialkg,unicrs_redial,tie
-2024-09-16 11:53:00.552201,ec300989-22db-4bb7-907d-5971942ae11c,barcor_opendialkg,unicrs_opendialkg,tie
 2024-09-16 11:53:35.791115,ec300989-22db-4bb7-907d-5971942ae11c,barcor_opendialkg,unicrs_opendialkg,tie
 2024-09-16 11:57:14.096762,b3ccf30b-f7fb-4f38-8b38-631c2ef232f6,barcor_opendialkg,unicrs_opendialkg,barcor_opendialkg
 2024-09-16 12:01:20.679996,b601c678-da6f-4226-922f-daa35f8afe1b,barcor_opendialkg,crbcrs_redial,crbcrs_redial
@@ -51,18 +47,15 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 12:07:20.796879,a40ccbfb-a9ab-46f5-9f1e-d3d48d475161,barcor_redial,kbrd_redial,barcor_redial
 2024-09-16 12:08:50.940986,a61ac294-3f5e-4b6a-892d-dbe1a8414e1a,chatgpt_opendialkg,barcor_redial,barcor_redial
 2024-09-16 12:11:47.856340,7077b507-58d2-4e48-ac65-4d93fb500570,kbrd_redial,barcor_redial,tie
-2024-09-16 12:14:49.333839,ef424103-6dd5-4671-8a60-016a96998f41,chatgpt_redial,unicrs_redial,tie
 2024-09-16 12:14:49.907183,ef424103-6dd5-4671-8a60-016a96998f41,chatgpt_redial,unicrs_redial,tie
 2024-09-16 12:20:37.939261,02e94613-4209-461c-8b12-22f5021262eb,crbcrs_redial,kbrd_opendialkg,tie
 2024-09-16 12:28:12.713205,ae53dc9d-5817-4b12-801a-be241f3bc2d3,chatgpt_opendialkg,crbcrs_redial,tie
 2024-09-16 12:28:42.397803,ed93ad5f-b83f-4c35-b1d8-0b17188b73ed,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg
 2024-09-16 12:28:57.231194,67db60a6-f6b3-4791-8d1c-edc5c9fbeb7a,chatgpt_redial,unicrs_opendialkg,chatgpt_redial
 2024-09-16 12:34:39.764684,7bcecb6c-8f73-4c4d-8820-c38c0e122d98,unicrs_redial,kbrd_redial,tie
-2024-09-16 12:35:44.870447,2ab8e8ba-41db-4834-9ac3-a659c96697ef,unicrs_redial,kbrd_opendialkg,tie
 2024-09-16 12:36:26.896412,2ab8e8ba-41db-4834-9ac3-a659c96697ef,unicrs_redial,kbrd_opendialkg,tie
 2024-09-16 12:45:25.385542,d2e2b537-c954-4c41-944a-e976905c7ff4,kbrd_redial,crbcrs_redial,tie
 2024-09-16 12:45:37.597548,70231783-4e9e-41b7-af50-addb035383d8,chatgpt_redial,kbrd_opendialkg,chatgpt_redial
-2024-09-16 12:47:27.974810,47ab6b6f-5b0e-4e9f-8797-3e15b9f92c10,chatgpt_opendialkg,kbrd_opendialkg,chatgpt_opendialkg
 2024-09-16 12:53:22.572241,7188b711-d0aa-4d80-9850-2505ed454355,barcor_redial,unicrs_opendialkg,barcor_redial
 2024-09-16 12:57:05.196146,e10f83c5-ce2a-493b-af1e-a29526e16ae6,unicrs_opendialkg,barcor_redial,barcor_redial
 2024-09-16 12:57:20.191150,8f87e94f-8b0f-4e8a-9034-bb79f172c0bd,barcor_redial,unicrs_opendialkg,tie
@@ -75,8 +68,6 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 13:32:30.750610,8c19cc33-9d7f-4a25-a8eb-88c4f7e209b8,chatgpt_opendialkg,chatgpt_redial,chatgpt_redial
 2024-09-16 13:38:11.295413,5848368c-44f1-4c4c-a0fa-0334b82287c6,barcor_opendialkg,kbrd_redial,tie
 2024-09-16 13:39:13.794107,1cb9615d-e2b0-43ac-ac12-9b3313111f37,chatgpt_redial,barcor_opendialkg,tie
-2024-09-16 13:43:48.101658,bd9abd71-02e4-4bd3-aa79-748c3144f455,barcor_opendialkg,kbrd_redial,kbrd_redial
-2024-09-16 13:43:51.601149,bd9abd71-02e4-4bd3-aa79-748c3144f455,barcor_opendialkg,kbrd_redial,kbrd_redial
 2024-09-16 13:45:11.796948,bd9abd71-02e4-4bd3-aa79-748c3144f455,barcor_opendialkg,kbrd_redial,kbrd_redial
 2024-09-16 13:46:47.898588,185f7406-2f1c-4211-ae0f-0d940ca141ec,kbrd_opendialkg,unicrs_opendialkg,tie
 2024-09-16 13:47:43.094512,62ed5d7b-16c7-48f2-9731-38c3061f31b4,barcor_redial,kbrd_opendialkg,barcor_redial
@@ -96,9 +87,7 @@ session_id,user_id,crs1,crs2,vote
 2024-09-16 15:02:54.290111,9e3e01c7-e2f6-4479-ae3d-95e7dbcc9d70,chatgpt_opendialkg,unicrs_redial,chatgpt_opendialkg
 2024-09-16 15:04:20.155102,a1b1f517-bfd5-40bb-ab3d-35ddcb313a20,barcor_redial,unicrs_redial,barcor_redial
 2024-09-16 15:13:35.848470,f2ce74aa-457a-441b-8995-7800d33f956b,unicrs_opendialkg,kbrd_opendialkg,tie
-2024-09-16 15:15:28.393167,a1b5343d-06f9-4ed1-b03d-66cd00474fad,kbrd_opendialkg,unicrs_opendialkg,tie
 2024-09-16 15:16:38.531071,a1b5343d-06f9-4ed1-b03d-66cd00474fad,kbrd_opendialkg,unicrs_opendialkg,tie
-2024-09-16 15:17:31.983469,6e99bf1c-df59-4b94-a6e8-3b52c03eb528,unicrs_opendialkg,kbrd_opendialkg,tie
 2024-09-16 15:17:39.555647,6e99bf1c-df59-4b94-a6e8-3b52c03eb528,unicrs_opendialkg,kbrd_opendialkg,tie
 2024-09-16 15:33:03.303831,38d10608-4472-47b4-b453-61596745aa06,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg
 2024-09-16 15:35:18.281219,9e76ec41-12a3-42a1-95e6-9fc1a587f980,chatgpt_opendialkg,barcor_opendialkg,tie
