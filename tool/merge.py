@@ -66,6 +66,7 @@ def merge_votes_to_dialogues(votes_file: str, dialogues_file: str) -> None:
                     "crs1": vote_rows["crs1"].iloc[0],
                     "crs2": vote_rows["crs2"].iloc[0],
                     "vote": vote_rows["vote"].iloc[0],
+                    "feedback": vote_rows["feedback"].iloc[0],
                 },
             }
 
