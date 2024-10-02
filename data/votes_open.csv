@@ -2,7 +2,6 @@ session_id,user_id,crs1,crs2,vote,feedback
 2024-09-08 23:01:08,e7eb4480-6951-4582-91ad-1d19ead970bb,kbrd_redial,kbrd_opendialkg,tie,
 2024-09-09 12:39:13,049a839e-89e5-4e0b-92e7-f72eb5052ca5,kbrd_redial,kbrd_opendialkg,kbrd_redial,
 2024-09-09 12:44:14,8460fdbb-3dee-4b19-aa3e-057b40b4b9a6,kbrd_redial,kbrd_opendialkg,kbrd_redial,"Based on the limited prompts I tried, I feel like CRS1 is more likely to generate more related answers and CRS2 is more probable to generate very ""nonsensical"" or totally out-of-context results.   I clicked frustrated for CRS1 only because it was not giving me the exact results I wanted. It was just recommending old movies that were not 1)recent and 2)related to the subject I wanted. But it may be due to the fact that the underlying model is trained on older datasets. "
-2024-09-09 16:20:25,c719b21f-6cdb-49f3-b184-3a4a5394d6f9,kbrd_redial,kbrd_opendialkg,tie,
 2024-09-09 19:07:53,27a7298f-4ca2-441a-83dc-011f5d1ed5ea,kbrd_redial,kbrd_opendialkg,kbrd_redial,
 2024-09-09 19:15:31,2e6d6a22-b6ab-438a-a183-91761d804b90,unicrs_redial,unicrs_opendialkg,unicrs_opendialkg,
 2024-09-09 19:35:06,03368a16-93bd-4b21-885d-b9a21e3498ba,barcor_redial,barcor_opendialkg,tie,
@@ -23,7 +22,6 @@ session_id,user_id,crs1,crs2,vote,feedback
 2024-09-12 10:40:29,6e85effe-3902-4094-a6ec-046c4c21032b,chatgpt_opendialkg,crbcrs_redial,chatgpt_opendialkg,
 2024-09-12 10:40:53,22bd263f-c560-4cf5-be82-84e9130ec998,chatgpt_redial,barcor_opendialkg,chatgpt_redial,"The one is more ""straight to the point"", the otherone is a conversation. CRS 2 has great potential, but it doesnt tell me anything ""usefull"" about the film (What its about, etc..). Also missing that they ask ""what genre do you prefer?"", but CRS 1 lists some options I could ask more about"
 2024-09-12 10:57:33,5fa354b3-3838-4b8e-9b4e-dd57012d5291,crbcrs_redial,chatgpt_redial,chatgpt_redial,
-2024-09-12 11:01:13,7ec0c733-2b79-42b1-8053-278a8a496c01,chatgpt_redial,chatgpt_opendialkg,chatgpt_opendialkg,"The script kept crashing, but I tried a couple of times and CRS 2 seemed to get the best result."
 2024-09-12 11:01:37,112ed1c0-abc5-44bc-bf14-b1f9267845da,crbcrs_redial,chatgpt_redial,chatgpt_redial,
 2024-09-12 11:02:25,fa1ba55e-a982-4cd8-8d2f-b8bf9d34e211,crbcrs_redial,chatgpt_redial,chatgpt_redial,CRS2 is much much faster. CRS1 literally crashed trying to come up with a movie recommendation. 
 2024-09-12 11:04:07,1219a3b4-799e-469d-93b9-b3f0301af910,crbcrs_redial,chatgpt_redial,chatgpt_redial,The first one was stubborn and when i asked for reccomendations would not give any. Somethimes it would ask in what category even tho i had given that before and if i awnsered it would just derail the convo
