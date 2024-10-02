@@ -1,5 +1,4 @@
-"""
-Implements the Distinct-n metric for evaluating diversity in dialogues.
+"""Implements the Distinct-n metric for evaluating diversity in dialogues.
 The implementation is copied from Joko et al. (2024) which is based on Tevet et al. (2021).
 For more details, refer to Joko et al. (2024).
 
