@@ -11,22 +11,11 @@ The dataset is stored in the `data` directory, which contains the following file
   * `votes_open.csv`: Votes and feedback from the open crowdsource settings.
   * `votes_closed.csv`: Votes and feedback from the closed crowdsource settings.
 
-### Dialogue distribution
+An analysis of the data is provided [here](DataAnalysis.md).
+
+### Dialogues
 
 CRSArena-Dial comprises 474 dialogues between users and nine conversational recommendation systems.
-
-| CRS | Open crowdsourcing | Closed crowdsourcing |
-| --- | :----------------: | :------------------: |
-| BARCOR_OpenDialKG | 29 | 26 |
-| BARCOR_ReDial | 23 | 24 |
-| CRB-CRS_ReDial | 37 | 26 |
-| ChatGPT_OpenDialKG | 20 | 24 |
-| ChatGPT_ReDial | 29 | 24 |
-| KBRD_OpenDialKG | 38 | 21 |
-| KBRD_ReDial | 35 | 27 |
-| UniCRS_OpenDialKG | 21 | 21 |
-| UniCRS_ReDial | 22 | 27 |
-| **Total** | 254 | 220 |
 
 #### Dialogue format
 
