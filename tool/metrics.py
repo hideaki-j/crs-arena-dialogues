@@ -46,10 +46,10 @@ class DistinctNgrams:
         """Tokenizes the input line based on the specified tokenizer_name.
 
         Args:
-        line (str): The input line to _tokenize.
+            line (str): The input line to _tokenize.
 
         Returns:
-        list: A list of tokens from the input line.
+            list: A list of tokens from the input line.
         """
         if self.use_lower_case:
             line = line.lower() # this is because M2M is lowercased dataset, thus for fair comparison we need to lowercase the other datasets as well.
