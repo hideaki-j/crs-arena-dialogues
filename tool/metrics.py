@@ -76,7 +76,7 @@ class DistinctNgrams:
         return self._calculate_unique_ngram_ratio(self.lines_to_ngrams(response_set))
 
     def calculate_normalized_distinct_n(self, response_set: List[str], return_avg: bool = True, max_token_length: int = 7012, iterations: int = 100, seed: int = 42) -> Union[float, List[float]]:
-        """Calculate the truncated Distinct-n metric for a set of responses.
+        """Calculates the truncated Distinct-n metric for a set of responses.
 
         This method implements the truncated Distinct-n metric as described in Joko et al. (2024).
         For more details, refer to: https://dl.acm.org/doi/10.1145/3626772.3657815
